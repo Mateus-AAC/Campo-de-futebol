@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+
+  background-color: black;
+}
+
+main {
+  background-color: white;
+  width: 500px;
+  height: 450px;
+  margin: 120px 0px 0px 425px;
+  border-radius: 2%;
+}
+
+h1,
+h4,
+#select {
+  text-align: center;
+}
+
+#select {
+  width: 100%;
+}
+
+h3 {
+  margin: 10px 0px 0px 236px;
+}
+
+#status {
+  color: red;
+}
+
+canvas {
+  width: 380.188px;
+  height: 171.078px;
+  border: 1px solid green;
+  background-color: rgb(18, 156, 18);
+  margin: 40px 0px 0px 60px;
+}
